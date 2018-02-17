@@ -1,0 +1,9 @@
+.english {
+display:block;
+}
+li .english {
+display:inline;
+}
+.tiengviet {
+display:none;
+}
